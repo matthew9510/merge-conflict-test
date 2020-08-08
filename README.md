@@ -1,3 +1,6 @@
-This line will be altered by two features! We should come into a merge conflict. Feature 1 addition
+This line will be altered by two features! We should come into a merge conflict.
 
-Another feature 1 addition
+As hypothesized we run into a merge conflict.
+
+Proof:
+https://github.com/matthew9510/merge-conflict-test/pull/2
